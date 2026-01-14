@@ -1,6 +1,6 @@
 ## Documents
-(https://docs.google.com/document/d/1arFDRiX628bxzR7hhWCc8A0xzaG0eGLhwkCLRTOfGtI/edit?usp=sharing)[Segmentation & Prioritization Framework]
-(https://docs.google.com/document/d/1k9i7q05O1rMBYrkdwuqhYe9Khr0tJ68fjNLgWeCb0-Y/edit?usp=sharing)[Stakeholder Communication]
+[https://docs.google.com/document/d/1arFDRiX628bxzR7hhWCc8A0xzaG0eGLhwkCLRTOfGtI/edit?usp=sharing](Segmentation & Prioritization Framework)
+[https://docs.google.com/document/d/1k9i7q05O1rMBYrkdwuqhYe9Khr0tJ68fjNLgWeCb0-Y/edit?usp=sharing](Stakeholder Communication)
 
 ## Prerequisites
 
