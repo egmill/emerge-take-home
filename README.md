@@ -23,7 +23,7 @@
 
 3. **Set up environment variables**
 ```bash
-   cp .env.example .env.local
+   touch .env.local
 ```
 
 4. **Add your Anthropic API key**
